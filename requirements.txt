@@ -1,0 +1,24 @@
+# requirements.txt
+
+# Core deep learning framework
+torch
+torchvision
+torchaudio
+
+# Image loading and manipulation
+Pillow
+
+# Numerical operations
+numpy
+
+# Plotting and visualization
+matplotlib
+
+# Progress bars
+tqdm
+
+# Image quality metrics (PSNR)
+scikit-image
+
+# BM3D denoising algorithm
+bm3d
